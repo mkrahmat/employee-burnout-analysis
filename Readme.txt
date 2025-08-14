@@ -1,6 +1,6 @@
-# Employee Burnout Analysis & Prediction (VOIS Project)
+#Employee Burnout Analysis & Prediction (VOIS Project)
 
-## 📌 Overview
+##📌 Overview
 This project explores **employee burnout issues** in product- and service-based companies.  
 It uses **exploratory data analysis (EDA)**, **feature engineering**, and **machine learning techniques** to analyze patterns and predict burnout levels among employees.
 
@@ -8,7 +8,7 @@ The goal is to help organizations — from **startups** to even **global health 
 
 ---
 
-## 🎯 Problem Statement
+##🎯 Problem Statement
 Employee burnout is a critical issue impacting productivity, mental health, and retention rates.  
 The objective of this project is to:
 1. **Analyze** employee data to identify burnout patterns.
@@ -17,7 +17,7 @@ The objective of this project is to:
 
 ---
 
-## 📂 Dataset
+##📂 Dataset
 - **File:** `employee_burnout_analysis-AI.csv`
 - **Columns:**
   - Employee ID  
@@ -34,7 +34,7 @@ The objective of this project is to:
 
 ---
 
-## 🛠 Technologies & Libraries Used
+##🛠 Technologies & Libraries Used
 - **Python**: Data analysis & modeling
 - **Pandas**: Data manipulation
 - **NumPy**: Numerical computations
@@ -46,7 +46,7 @@ The objective of this project is to:
 
 ---
 
-## 📊 Steps in the Project
+##📊 Steps in the Project
 1. **Data Loading & Cleaning**
    - Removed duplicates  
    - Filled missing values (mean imputation)  
@@ -69,14 +69,14 @@ The objective of this project is to:
 
 ---
 
-## 📈 Key Insights
+##📈 Key Insights
 - **Mental Fatigue Score** and **Resource Allocation** show strong correlation with burnout.
 - Burnout levels vary across **company types** and **WFH setup availability**.
 - PCA reduced the feature space while preserving most information.
 
 ---
 
-## 🚀 How to Run the Project
+##🚀 How to Run the Project
    ```bash
 1. **Clone this repository**
    git clone https://github.com/<your-username>/employee-burnout-analysis.git
@@ -108,3 +108,4 @@ Incorporate additional features such as work hours, leave records, etc.
 
 This project is for educational purposes.
 Dataset provided as part of VOIS training/assignment — not for commercial use.
+
