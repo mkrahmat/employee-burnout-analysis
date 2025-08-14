@@ -77,9 +77,8 @@ The objective of this project is to:
 ---
 
 ## 🚀 How to Run the Project
-
+```
 ### 1. Clone this repository
-```bash
 git clone https://github.com/<your-username>/employee-burnout-analysis.git
 cd employee-burnout-analysis
 2. Install dependencies
@@ -90,9 +89,9 @@ jupyter notebook ProjectVOIS.ipynb
 
 
 Or execute the Python script:
-
 python employee_burnout_analysis.py
-````bash
+```
+
 📌 Future Improvements
 
 Hyperparameter tuning for better model performance.
@@ -105,4 +104,5 @@ Incorporate additional features such as work hours, leave records, etc.
 
 This project is for educational purposes.
 Dataset provided as part of VOIS training/assignment — not for commercial use.
+
 
